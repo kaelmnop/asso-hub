@@ -14,13 +14,16 @@ Permet la gestion des membres, de l'agenda, des fichiers, des projets, de la tr�
 ```bash
 cd api
 bin/rails db:create db:migrate
-bin/rails s´´´
+bin/rails s
+```
 
 Accessible sur http://localhost:3000
 
 ### Frontend (React)
-```cd web
+```bash
+cd web
 npm install
-npm run dev´´´
+npm run dev
+```
 
 Accessible sur http://localhost:5173
